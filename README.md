@@ -1,4 +1,5 @@
 A. DESKRIPSI TOPIK 
+
 Dalam manajemen proyek, seringkali terjadi masalah dalam mengelola dan memantau proyek yang jumlahnya mungkin tidak sedikit. Setiap proyek memiliki beberapa sub-proyek atau tugas dengan tenggat waktu tertentu. Pengelolaan seperti penambahan, penghapusan, pencarian, atau lamanya durasi waktu pengerjaannya sering kali menjadi hambatan saat menangani data dalam jumlah besar.
 Oleh karena itu, untuk memecahkan masalah ini, diperlukan struktur data Multi Linked List dengan pemodelan hubungan 1-N antara proyek dan daftar tugas yang ada di dalam suatu proyek. Setiap node proyek (parent) memiliki daftar tugas (child), dan setiap tugas menyimpan informasi nama tugas serta deadline waktu yang akan dibuat. Solusi yang bisa kami lakukan adalah membuat aplikasi NodeWorker yang dimana bisa membuat proyek yang diinginkan yang bisa diisi dengan banyak tugas-tugas yang ingin dikerjakan. Selain itu, fitur-fitur tambahan seperti banyak Tugas dan Koordinator (Manajer) pada proyek memudahkan pengerjaan proyek untuk tertata lebih baik dan teratur.
 
